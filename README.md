@@ -1,3 +1,10 @@
+[![author](https://img.shields.io/badge/author-BrunoMelo-red.svg)](https://www.linkedin.com/in/bruno-melo-223817125/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/portfolio/issues)
+
+<p align="center">
+  <img src="https://imgs.jusbr.com/publications/images/a44138392879ba7670397c30d8e0134a" alt="imagem maneira relacionada ao projeto"height=400px >
+</p>
+
+
 # Análise Exploratória de Dados – Airbnb Oslo
 
 Este repositório contém um projeto de Análise Exploratória de Dados (EDA) utilizando Python, com foco em anúncios do Airbnb na cidade de Oslo.
